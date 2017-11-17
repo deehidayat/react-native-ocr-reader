@@ -1,0 +1,31 @@
+{
+  "name": "react-native-ocr-reader",
+  "version": "0.0.1",
+  "author": "Dede Hidayat",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deehidayat/react-native-ocr-reader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deehidayat/react-native-ocr-reader/issues"
+  },
+  "homepage": "https://github.com/deehidayat/react-native-ocr-reader",
+  "keywords": [
+    "react-native",
+    "android",
+    "library",
+    "google",
+    "vision",
+    "ocr",
+    "reader"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
